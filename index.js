@@ -1,8 +1,8 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function(){
-    updatedDOM()
+    updatedTheDOM()
 });
 
-function updatedDOM(){
+function updatedTheDOM(){
     document.getElementById("text").textContent = "This is really cool!";
 }
